@@ -1,4 +1,7 @@
 {
+  "bin": {
+    "resume-me": "./index.js"
+  },
   "name": "digallardox-resume",
   "version": "1.0.0",
   "description": "",
@@ -8,7 +11,4 @@
   },
   "author": "",
   "license": "ISC"
-  "bin": {
-    "resume-me": "./index.js"
-  },
 }
