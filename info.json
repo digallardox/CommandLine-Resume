@@ -1,0 +1,26 @@
+{
+    "name": "Diego Gallardo",
+    "website": "https://gallardodesigns.com/",
+    "linkedin": "https://www.linkedin.com/in/digallardox/",
+    "github": "digallardox",
+    "email": "digallardox@gmail.com",
+    "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "otherSkills": [
+        "Unagi",
+        "Five Finger Fillet",
+        "Bridge"
+    ]
+}
